@@ -1,1 +1,3 @@
 # readwear
+
+Another Discovery plugin
